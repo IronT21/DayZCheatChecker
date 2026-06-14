@@ -27,4 +27,4 @@ If suspicious activity is detected, review the report and take the recommended a
 
 Disclaimer:
 This tool is intended for server administrators and legitimate players to ensure fair gameplay. It should not be used for malicious monitoring or data collection.
-Download here: https://mega.nz/file/5Fcy1TyC#aJkmmBe5xLnexv-tH_bt5GoAiPFw-3e5K_Tlj-U191E
+Download here: https://mega.nz/file/kQUQDB6a#PWbpL-VUBmK6_OvPcyfWLnUzasdPnfeUQUkN6k2Gyp0
